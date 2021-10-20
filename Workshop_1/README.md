@@ -1,4 +1,4 @@
-# Workshop 1: Hello Python
+# Workshop 1: Hello Python!
 
 In this workshop, you'll be learning the basics of programming and Python! This document is essentially a reference sheet for you, and will also contain the activities and descriptions.
 
