@@ -8,7 +8,6 @@ In this workshop, you'll be continuing to learn more about some fundamental prog
 - More About Functions
 - Intro to Tello Drones
 - Networks 101
-- Libraries
 - Basic Tello Methods
 - Algorithms
 
