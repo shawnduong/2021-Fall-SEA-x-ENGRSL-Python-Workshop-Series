@@ -14,5 +14,5 @@ The following flyers were created by **Engineering Service Learning (ENGRSL).** 
 
 Click on any of these links to view the handout page for each particular event!
 - [Workshop 1: Hello Python!](./Workshop_1/README.md)
-- Workshop 2: Hello Tello! (unavailable)
+- [Workshop 2: Hello Tello!](./Workshop_2/README.md)
 - Workshop 3: Go Go Tello! (unavailable)
